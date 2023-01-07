@@ -1,1 +1,4 @@
-{ "date": "28-02-2023" }
+{
+    "date": "28-02-2023",
+    "is_update_available": true
+}
